@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "greatPastryRecipeApp",
+    "slug": "greatPastryRecipeApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tautona.greatPastryRecipeApp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "googleServicesFile": "./google-services.json",
+      "package": "com.tautona.greatPastryRecipeApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee8b4efe-7d0e-4120-ae8c-08e03082dbeb"
+      }
+    },
+    "owner": "tautona"
+  }
+}

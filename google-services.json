@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "37244341831",
+    "firebase_url": "https://greatpastryrecipe-default-rtdb.firebaseio.com",
+    "project_id": "greatpastryrecipe",
+    "storage_bucket": "greatpastryrecipe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37244341831:android:a74366575761b39abbab62",
+        "android_client_info": {
+          "package_name": "com.tautona.greatPastryRecipeApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDv4mCrYAdVfYRkLCoUop90n9fniNaoWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
